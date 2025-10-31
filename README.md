@@ -65,7 +65,7 @@ python -m venv venv
 
 #### Ativar o Ambiente Virtual
 
-**ATENÇÃO: Se estiver usando PowerShell no Windows, primeiro execute:**
+**ATENÇÃO: Se estiver usando PowerShell no Windows, e der erro de permissão:**
 ```powershell
 # Liberar execução de scripts (execute como Administrador se necessário)
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser

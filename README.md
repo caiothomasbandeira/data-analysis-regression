@@ -26,9 +26,9 @@ O notebook implementa uma análise estatística completa que inclui:
 ```
 data-analysis-regression/
 │
-├── analise_regressao_erupcoes.ipynb    # Notebook principal
-├── requirements.txt                    # Dependências do projeto
-└── README.md                          # Este arquivo
+├── analise_regressao_erupcoes.ipynb    
+├── requirements.txt                    
+└── README.md                          
 ```
 
 ## Tecnologias Utilizadas
@@ -107,6 +107,13 @@ jupyter lab
 1. No navegador, abra o arquivo `analise_regressao_erupcoes.ipynb`
 2. Execute as células sequencialmente usando `Shift + Enter`
 3. Ou execute todas as células: `Cell > Run All`
+
+
+### Passo 6: Fechar o Notebook e o Projeto
+
+1. Feche a aba do navegador
+2. Volte ao terminal e aperte 2 vezes `Ctrl + C`
+3. Para sair da venv e fechar o projeto digite `deactivate`
 
 ## Dados Utilizados
 
